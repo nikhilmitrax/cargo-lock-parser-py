@@ -1,2 +1,2 @@
 # cargo-lock-parser-py
-A Cargo lockfile parser in python.
+A small no dependancy (except `toml`) Cargo lockfile parser in python. Intended for use with larger projects for lockfile introspection.
