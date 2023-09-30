@@ -1,2 +1,3 @@
 # cargo-lock-parser-py
-A small no dependancy (except `toml`) Cargo lockfile parser in python. Intended for use with larger projects for lockfile introspection.
+
+A small no dependancy (except `toml`) lockfile parser in python. Currently implements parsing `Cargo.lock` and `poetry.lock`. Intended for use with larger projects for static lockfile introspection.
