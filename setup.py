@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="lockfile-parser",  # Replace with your desired package name
-    version="0.1.0",
+    version="0.2.0",
     author="Nikhil",
     author_email="nm2868@columbia.edu",
     description="A mininal lockfile parser in python",
